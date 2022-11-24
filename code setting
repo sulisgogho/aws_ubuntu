@@ -1,0 +1,5 @@
+sudo apt-get update
+sudo apt-get isntall apache
+sudo apt-get install httpd
+sudo apt-get isntall apache2
+sudo apt-get install php php-mysql
